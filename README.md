@@ -24,6 +24,3 @@ Click [here](https://slides.com/abhishek-shrm/real-estate-and-venues-analysis-de
 
 Higher the prices of houses higher are the chance that people with better economic conditions live in that area.
 People living in the area of Category V has the highest economic strength and people living in the area of Category I have lowest economic strength.
-
-## Conclusion
-The maps generated through this project are useful for the vast majority of people. Many countries and companies generate these kinds of maps, which help them in deeply analyzing the present conditions of the state. There are so many companies that are democratizing data like this, which gives insights for businesses. Geographical and Economic insights are a boon for everyone, whether it is a big company or an individual.

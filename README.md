@@ -3,6 +3,11 @@ It is a clustering analysis project on Real Estate prices and venues of Delhi. I
 
 Click [here](https://slides.com/abhishek-shrm/real-estate-and-venues-analysis-delhi/fullscreen) to view the slides on the project.
 
+## Data Sources
+- **Real Estate Prices** for different areas in Delhi from the **makaan.com** website.
+- **Geocoding API** of **MapMyIndia** to get the latitude and longitude of areas.
+- **Foursquare’s Places API** to get venues near a particular location.
+
 ## Results of Venues Analysis
 <div class="sl-block is-focused" data-block-type="image" style="width: 925px; height: 551px; left: 18px; top: 134px; min-width: 1px; min-height: 1px;" data-origin-id="4ec7566dea0e9021307a1636cc80bf16"><div class="sl-block-content" style="z-index: 11;"><img style="" data-natural-width="1157" data-natural-height="689" data-lazy-loaded="" src="https://s3.amazonaws.com/media-p.slid.es/uploads/1159238/images/6678077/map_cluster.png"></div></div>
 

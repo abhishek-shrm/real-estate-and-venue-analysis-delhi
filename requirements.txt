@@ -34,7 +34,7 @@ jupyterlab @ file:///tmp/build/80754af9/jupyterlab_1629124491270/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1631656558832/work
 kiwisolver==1.3.2
-lxml==4.6.3
+lxml==4.9.1
 MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1621523467000/work
 matplotlib==3.4.3
 matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work

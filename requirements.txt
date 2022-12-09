@@ -7,7 +7,7 @@ backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
 branca==0.4.2
 brotlipy==0.7.0
-certifi==2021.5.30
+certifi==2022.12.7
 cffi @ file:///tmp/build/80754af9/cffi_1625814692085/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 cryptography @ file:///tmp/build/80754af9/cryptography_1616767007030/work
